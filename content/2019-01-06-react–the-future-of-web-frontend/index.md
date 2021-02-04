@@ -32,3 +32,10 @@ I have worked with other frontend frameworks like angularJS and angular 2, 4 & 5
 5. ### React has great community support
 
     The community support behind react is very good. It is also maintained by Facebook as an open source project with regular updates. Currently, version 16.6 is the updated version as of Jan 3rd, 2019.
+<video id="player" playsinline controls data-poster="/path/to/poster.jpg">
+  <source src="/path/to/video.mp4" type="video/mp4" />
+  <source src="/path/to/video.webm" type="video/webm" />
+
+  <!-- Captions are optional -->
+  <track kind="captions" label="English captions" src="/path/to/captions.vtt" srclang="en" default />
+</video>

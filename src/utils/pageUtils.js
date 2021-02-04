@@ -1,4 +1,8 @@
 /* eslint-disable no-param-reassign */
+import Plyr from 'plyr';
+
+const player = new Plyr('#player');
+
 const Config = require('../../config');
 
 const Utils = {
